@@ -1,0 +1,10 @@
+{
+    "dev-api-test": {
+        "app_function": "app.app",
+        "aws_region": "us-west-2",
+        "profile_name": "awazde-lambda",
+        "project_name": "converstational",
+        "runtime": "python3.9",
+        "s3_bucket": "awazde-flask-lambda"
+    }
+}
